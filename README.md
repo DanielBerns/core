@@ -1,0 +1,2 @@
+# core
+My apps core
